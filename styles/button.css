@@ -4,11 +4,11 @@
     border: 1px solid #fff;
     background-color: transparent;
     cursor: pointer;
-    font-family: 'Fira Sans Condensed';
+    font-family: 'Fira Sans Condensed', Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    line-height: 21.6px;
+    line-height: 0.81;
     text-align: center;
 }
 
@@ -16,9 +16,8 @@
     text-decoration: underline;
 }
 
-button:focus {
+.button:focus {
     outline: none;
-    border: none;
 }
 
 .button:focus-visible {
