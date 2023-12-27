@@ -1,0 +1,12 @@
+.title {
+    font-family: Oswald;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 70.5px;
+    text-transform: uppercase;
+    margin-bottom: 26px;
+  }
+
+  .title .content__accent {
+    color: #545050;
+  }
